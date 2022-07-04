@@ -1,1 +1,3 @@
 git init - initialising git
+git add -A
+git commit -m "msg"
